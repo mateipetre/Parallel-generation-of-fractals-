@@ -4,12 +4,12 @@ Homework from 'Parallel and Distributed Algorithms' course
 
 MATEI Alexandru-Petrut, 333AA
 
-========================================================================================================
+
 
                                           Tema #1 - APD
                         Generare paralela de fractali folosind multimile Mandelbrot si Julia
 
-========================================================================================================
+
 
                       Tema a fost implementata pornind de la algoritmii secventiali
                     pentru generarea multimilor Mandelbrot si Julia, in C. Paralelizarea
